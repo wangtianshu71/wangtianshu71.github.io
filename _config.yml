@@ -4,7 +4,7 @@ SEOTitle: 天舒的博客 | TS Blog
 header-img: img/home-bg.jpg
 email: catwts@pku.edu.cn
 description: "Welcome to My Space"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+keyword: ""
 url: "https://wangtianshu71.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -56,7 +56,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: ts
 
 # Netease settings
 netease_comment: false
