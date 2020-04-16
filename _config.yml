@@ -6,7 +6,7 @@ email: catwts@pku.edu.cn
 description: "Welcome to My Space"
 keyword: ""
 url: "https://wangtianshu71.github.io"              # your host, for absolute URL
-baseurl: "blog/wangtianshu.me"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
