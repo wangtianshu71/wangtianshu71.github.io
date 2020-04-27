@@ -16,7 +16,7 @@ Markdown教程
 <br><br>
 `markdown语言是由约翰格鲁伯在2004年创建,可以导出html、word、图像、PDF、Epub`
 <br><br>
-`markdown编写的文档后缀为'.md','.markdown'`
+`markdown编写的文档后缀为'.md','.markdown'`  
 ***
 一、Markdown标题
 --------------------
