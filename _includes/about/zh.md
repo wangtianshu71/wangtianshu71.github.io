@@ -9,7 +9,7 @@
 目前想做的几个tag是：产品、技术文档开发、python、Java、日常随笔、tutorial，希望能将这个博客真正写起来。  
 
 你可以通过以下渠道联系到我：  
-    - 微信：woshitianshushiwo
-    - QQ: 727710610@qq.com
+- 微信：woshitianshushiwo  
+- QQ: 727710610@qq.com
 
 > 希望看到这篇博客的每一个人，都是自己生活的主人。
