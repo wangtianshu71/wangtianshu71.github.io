@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "《用户体验度量》笔记"
+title: "《用户体验度量》背景知识"
 author: "wts"
 header-style: text
 tags:
   - note
 ---
-《用户体验度量》笔记
+背景知识
 =====================
 ## 选择参加者
 可用性领域常见的组别和分类标准：

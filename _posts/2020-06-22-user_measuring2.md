@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《用户体验度量》笔记2"
+title: "《用户体验度量》规划可用性研究"
 author: "wts"
 header-style: text
 tags:
