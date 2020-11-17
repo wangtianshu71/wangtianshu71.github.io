@@ -4,7 +4,7 @@ title: "《用户体验度量》背景知识"
 author: "wts"
 header-style: text
 tags:
-  - note
+  - 用户体验
 ---
 背景知识
 =====================
